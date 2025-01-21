@@ -17,7 +17,7 @@
   
 🖥️ [PC Assemble](https://github.com/miqbaltariq/SECP1513202420251/blob/main/06/shelingng/PC%20Assemble.pdf)</p>
 🖌️ [Assignment 1_Poster on Industry Talk 1](https://github.com/miqbaltariq/SECP1513202420251/blob/main/06/shelingng/Assignment%201_Poster%20on%20Industry%20Talk%201.pdf)</p>
-🎥 [Assignment 2_Video on Industry Visit 1](https://github.com/username/repo/blob/main/path/Assignment%202_Video%20on%20Industry%20Visit%201.mp4)</p>
+🎥 [Assignment 2_Video on Industry Visit 1](https://github.com/miqbaltariq/SECP1513202420251/blob/main/06/shelingng/Assignment%202_Video%20on%20Industry%20Visit%201.mp4)</p>
 📖 [Assignment 3_Academic Writing on Industry Talk 2](https://github.com/miqbaltariq/SECP1513202420251/blob/main/06/shelingng/Assignment%202_Video%20on%20Industry%20Visit%201.mp4)</p>
 🖼️ [Assignment 4_Poster on CODE'2025](https://github.com/miqbaltariq/SECP1513202420251/blob/main/06/shelingng/Assignment%204_Poster%20on%20CODE'2025.pdf)</p>
 🤖 [Design Thinking Project](https://github.com/miqbaltariq/SECP1513202420251/tree/main/06/shelingng/Design%20Thinking%20Project)</p>
