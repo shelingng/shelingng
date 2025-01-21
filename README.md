@@ -6,7 +6,7 @@
 - 📫 How to reach me **shelingng0107@gmail.com**
 
 - ⚡ Fun fact **Viva la vida**
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ngsheling" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngsheling" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
 
 <h3 align="left">📜Assignment and Project:</h3>
 <p align="left">
-🖥️ [PC Assemble](https://github.com/miqbaltariq/SECP1513202420251/blob/main/06/shelingng/Assignment%201_Poster%20on%20Industry%20Talk%201.pdf)</p>
+🖥️ [PC Assemble]</p>
 🖌️ [Assignment 1_Poster on Industry Talk 1]</p>
 🎞️ [Assignment 2_Video on Industry Visit 1]</p>
 📖 [Assignment 3_Academic Writing on Industry Talk 2]</p>
